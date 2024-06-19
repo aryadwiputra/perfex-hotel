@@ -3,3 +3,4 @@ uploads/*
 .htaccess
 index.php
 install/*
+installation/*
